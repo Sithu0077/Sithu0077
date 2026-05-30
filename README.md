@@ -127,7 +127,9 @@ print(me.motto())
 ## 🏆 Trophy Wall
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=Sithu0077&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7&margin-w=4" alt="Trophies"/>
+  <a href="https://github.com/Sithu0077">
+    <img src="https://github-profile-trophy.vercel.app/?username=Sithu0077&theme=tokyonight&no-frame=true&no-bg=true&row=2&column=4&margin-w=8&margin-h=8&title=MultiLanguage,Commits,Repositories,Stars,Followers,Issues,PullRequest,Reviews" alt="Trophies" width="100%"/>
+  </a>
 </div>
 
 ---
